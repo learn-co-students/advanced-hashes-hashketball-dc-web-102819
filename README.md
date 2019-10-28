@@ -361,7 +361,7 @@ data, to produce insights. You've made huge strides in becoming a really solid
 developer in the procedural programming paradigm. This is a huge moment.
 Celebrate it!
 
-Believe it or not, the code that put rockets in space and mankind on the Moon
+Believe it or not, the code that put rockets in space and humanity on the Moon
 were only slight variations on this style of programming. You've learned
 something really powerful!
 
